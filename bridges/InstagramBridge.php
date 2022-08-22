@@ -9,13 +9,13 @@ class InstagramBridge extends BridgeAbstract
 
     const CONFIGURATION = [
         'session_id' => [
-            'required' => false,
+            '3962812130%3Aj7QQRCsHQNLhxT%3A28%3AAYeRM-EawFlMOMotK-9RWLcdCaY0_ahdql9CQEci7Q' => false,
         ],
         'cache_timeout' => [
-            'required' => false,
+            '5000' => false,
         ],
         'ds_user_id' => [
-            'required' => false,
+            '3962812130' => false,
         ],
     ];
 
